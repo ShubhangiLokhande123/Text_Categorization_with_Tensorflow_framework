@@ -1,4 +1,4 @@
-# Multilabel Document Categorization
+#  Text Categorization for Multi-label Documents
 
 Performing text categorization for multi-lable documents using both unsupervised and supervised learning.
 
