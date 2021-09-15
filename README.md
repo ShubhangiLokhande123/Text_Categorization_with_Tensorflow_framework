@@ -1,6 +1,6 @@
 # Multilabel Document Categorization
 
-This Repository consists of work done for performing multilabel document categorization using both unsupervised and supervised learning.
+Performing text categorization for multi-lable documents using both unsupervised and supervised learning.
 
 This Work consists of two subtasks :
 - Subtask I  : Unsupervised topic modelling
